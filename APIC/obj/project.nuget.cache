@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FcoqszAlL5Arqm5Q9G2FN1C62b66wP8zYMm3VAp9/ezp3h1p47RLNKlpjk08DT0y/VC5XiM3H97zol+gjbmKmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BrainSwarm\\source\\repos\\APIC\\APIC\\APIC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BrainSwarm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\BrainSwarm\source\repos\APIC\APIC\bin\Debug\netcoreapp3.1\APIC.exe
+C:\Users\BrainSwarm\source\repos\APIC\APIC\obj\Debug\netcoreapp3.1\APIC.csprojAssemblyReference.cache
+C:\Users\BrainSwarm\source\repos\APIC\APIC\obj\Debug\netcoreapp3.1\APIC.AssemblyInfoInputs.cache
+C:\Users\BrainSwarm\source\repos\APIC\APIC\obj\Debug\netcoreapp3.1\APIC.AssemblyInfo.cs
+C:\Users\BrainSwarm\source\repos\APIC\APIC\obj\Debug\netcoreapp3.1\APIC.csproj.CoreCompileInputs.cache
+C:\Users\BrainSwarm\source\repos\APIC\APIC\bin\Debug\netcoreapp3.1\APIC.deps.json
+C:\Users\BrainSwarm\source\repos\APIC\APIC\bin\Debug\netcoreapp3.1\APIC.runtimeconfig.json
+C:\Users\BrainSwarm\source\repos\APIC\APIC\bin\Debug\netcoreapp3.1\APIC.runtimeconfig.dev.json
+C:\Users\BrainSwarm\source\repos\APIC\APIC\bin\Debug\netcoreapp3.1\APIC.dll
+C:\Users\BrainSwarm\source\repos\APIC\APIC\bin\Debug\netcoreapp3.1\APIC.pdb
+C:\Users\BrainSwarm\source\repos\APIC\APIC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BrainSwarm\source\repos\APIC\APIC\obj\Debug\netcoreapp3.1\APIC.csproj.CopyComplete
+C:\Users\BrainSwarm\source\repos\APIC\APIC\obj\Debug\netcoreapp3.1\APIC.dll
+C:\Users\BrainSwarm\source\repos\APIC\APIC\obj\Debug\netcoreapp3.1\APIC.pdb
+C:\Users\BrainSwarm\source\repos\APIC\APIC\obj\Debug\netcoreapp3.1\APIC.genruntimeconfig.cache
